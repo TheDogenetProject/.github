@@ -1,4 +1,4 @@
-# The Netdoge Project
+# The DogeNet Project
 
 This is the official page for The Netdoge Project.
 For now we are developing an efficient, secure and fast peer-to-peer communication system.
